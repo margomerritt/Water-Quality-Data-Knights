@@ -3,7 +3,17 @@
 # Overview
 This is an overview for our project to provide information on the quality of water based on locations and demographics on that location.
 
-## Segment 1
+
+
+## Notes
+
+A.Poe 
+We are the DATA Knights. Go Data KNIGHTS
+
+kav_note
+You guys rock!
+
+# Segment 1
 
 Topic: Water Quality 
 
@@ -17,15 +27,7 @@ Machine Learning Model:
 
 Technologies to use:
 
-## Notes
-
-A.Poe 
-We are the DATA Knights. Go Data KNIGHTS
-
-kav_note
-You guys rock!
-
-## Progress Notes
+# Progress Notes
 
 1. Night One 2/27/23
 
