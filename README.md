@@ -14,7 +14,7 @@ kav_note
 You guys rock!
 
 # Segment 1
-
+## Content for Segment 1
 Topic: Water Quality 
 
 Question to answer:
@@ -26,6 +26,11 @@ Database:
 Machine Learning Model:
 
 Technologies to use:
+
+## Presentation for Segment 1
+
+
+
 
 # Progress Notes
 
