@@ -3,6 +3,17 @@
 # Overview
 This is an overview for our project to provide information on the quality of water based on locations and demographics on that location.
 
+Topic: Water Quality 
+
+Question to answer:
+
+Dataset (link):
+
+Database: 
+
+Machine Learning Model:
+
+Technologies to use:
 
 
 A.Poe 
